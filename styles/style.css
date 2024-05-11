@@ -52,10 +52,10 @@ body{
 
 /*  HEADER STYLE START   */
 
-.header{
-    min-width: 1920px;
+/*.header{
+    min-width: var(--content-width: 1920px);
 
-}
+}*/
 
 .header__top{
     height: 50px;
