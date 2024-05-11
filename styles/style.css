@@ -1,6 +1,6 @@
 /*SETTINGS PAGE START */
 :root{
-    --content-width: 1920px;
+    /*--content-width: 1920px;*/
     --padding-top: 80px;
 }
 /*SETTINGS PAGE END */
@@ -14,8 +14,8 @@
 }
 
 body{
-    min-width: var(--content-width);
-    max-width: var(--content-width);
+    /*min-width: var(--content-width);
+    max-width: var(--content-width);*/
     box-sizing: border-box;
     margin: 0 auto;
     background-color: rgba(128, 128, 128, 0.10);
